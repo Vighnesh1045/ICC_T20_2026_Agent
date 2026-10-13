@@ -1,4 +1,4 @@
-# CricGenAI 2026
+# ICC_T20_2026_Agent
 
 Ask questions about the ICC Men's T20 World Cup 2026 in **English, Hindi or Marathi** and get answers straight from a SQL database, with no SQL knowledge needed. Built as my M.Sc. research project.
 
